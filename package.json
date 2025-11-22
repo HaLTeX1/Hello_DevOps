@@ -1,0 +1,13 @@
+{
+  "name": "hello-devops",
+  "version": "1.0.0",
+  "description": "Simple Hello World app for DevOps assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo \"Nothing to build for Node.js, ready to run\""
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
