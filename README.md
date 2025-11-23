@@ -14,7 +14,8 @@ A projekt tartalmaz:
 # 1. Alkalmazás futtatása lokálisan
 
 ## 1.1. Telepítés
-**npm install** parancs kiadása szükséges
+**npm install** parancs kiadása szükséges a telepítséhez
+Ezt követően a projekt az **npm start** paranccsal indítható.
 
 ## 1.2. Futtatás
 Ezután az alkalmazás elérhető:  
